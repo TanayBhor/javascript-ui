@@ -1,6 +1,4 @@
 # JavaScript UI Components
 
-A growing collection of reusable JavaScript UI components — built with simplicity, modularity, and flexibility in mind.
-This project serves as a lightweight library of UI patterns that can be copied, customized, and used in any web project.
-
-This repository is continuously evolving as new components are added.
+This repository is a collection of simple, self-contained UI components built with HTML, CSS, and JavaScript.
+It is designed for new JavaScript learners who want to understand how to build common UI features.
